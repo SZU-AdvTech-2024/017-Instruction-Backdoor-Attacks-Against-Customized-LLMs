@@ -1,0 +1,7 @@
+@inproceedings{REPO017,
+    author = "Zhang, Rui and Li, Hongwei and Wen, Rui and Jiang, Wenbo and Zhang, Yuan and Backes, Michael and Shen, Yun and Zhang, Yang",
+    booktitle = "33rd USENIX Security Symposium (USENIX Security 24)",
+    pages = "1849--1866",
+    title = "{Instruction backdoor attacks against customized $\{$LLMs$\}$}",
+    year = "2024"
+}
